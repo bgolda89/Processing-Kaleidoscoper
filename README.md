@@ -2,4 +2,4 @@
 Kaleidoscope using images with MIDI controls
 
 
-[![gif](https://j.gifs.com/oVRl23.gif)](https://j.gifs.com/oVRl23.gif)
+[![gif](https://j.gifs.com/oVRl23.gif)](https://youtu.be/az6SZkdmsAw)
